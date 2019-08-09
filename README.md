@@ -1,4 +1,4 @@
-## Used Car Inspection Checklist
+# Used Car Inspection Checklist
 This is a generic list of things to check before purchasing a used car.  Feel free to suggest changes.
 
 ### Before starting the car, while the engine is cool:
