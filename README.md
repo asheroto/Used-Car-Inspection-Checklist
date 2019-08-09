@@ -1,21 +1,21 @@
-# Used Car Inspection Checklist
+## Used Car Inspection Checklist
 This is a generic list of things to check before purchasing a used car.  Feel free to suggest changes.
 
 ### Before starting the car, while the engine is cool:
 
-1. Check radiator fluid - look under the radiator cap and the overflow resevoir. Can you see clean antifreeze? (Usually bright green - some cases red) If you can’t see any fluid it could indicate a small unknown leak somewhere. If the fluid is cloudy and dirty there could be a head gasket leak.
+1. **Check radiator fluid.** look under the radiator cap and the overflow resevoir. Can you see clean antifreeze? (Usually bright green - some cases red) If you can’t see any fluid it could indicate a small unknown leak somewhere. If the fluid is cloudy and dirty there could be a head gasket leak.
 
-2. Check the oil level. Is the oil level where it should be on the dip stick? If it’s not, that shows signs of poor maintenance and likely oil leak. Is the oil clean - not cloudy? Cloudy oil is a sign of water contamination - and water is not a good thing to be inside of an engine.
+2. **Check the oil level.** Is the oil level where it should be on the dip stick? If it’s not, that shows signs of poor maintenance and likely oil leak. Is the oil clean - not cloudy? Cloudy oil is a sign of water contamination - and water is not a good thing to be inside of an engine.
 
-3. Look under the engine bay for signs of oil leaks. If it drips to the ground after sitting for half day to full day - that’s too much of an oil leak. Hopefully the owner showing the car hasn’t recently moved the car. Look on the ground AND up on the engine and oil pan areas.
+3. **Look under the engine bay for signs of oil leaks.**. If it drips to the ground after sitting for half day to full day - that’s too much of an oil leak. Hopefully the owner showing the car hasn’t recently moved the car. Look on the ground AND up on the engine and oil pan areas.
 
 ### Exterior Walk-through
 
-1. Tire tread - tires should have an even wear to them. If any of the tread is wearing unevenly it could possibly need something as simple as an alignment ($80) or something worse like major suspension component repair (upwards of $1000 or more)
+1. **Tire tread** - tires should have an even wear to them. If any of the tread is wearing unevenly it could possibly need something as simple as an alignment ($80) or something worse like major suspension component repair (upwards of $1000 or more)
 
-2. Paint job - look for signs of fresh paint possibly covering up damage or accident repair. Any signs of bondo / body filler repair work?
+2. **Paint job** - look for signs of fresh paint possibly covering up damage or accident repair. Any signs of bondo / body filler repair work?
 
-3. Look under rocker panels and various under carriage areas for signs of rust. Rust is car cancer. Once it starts, the car will eventually be dead.
+3. **Look under** rocker panels and various under carriage areas for signs of rust. Rust is car cancer. Once it starts, the car will eventually be dead.
 
 4. Turn on all lights, blinkers, etc - check to make sure all signals / lights work. If more than 1 bulb is out, it’s could be more than just burnt out bulbs, it could be an underlying electrical issue.
 
